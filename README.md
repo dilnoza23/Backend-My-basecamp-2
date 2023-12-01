@@ -20,7 +20,7 @@ In summary, you should be able to add multiple attachments to your project.
 Only `project admin` can create a thread.
 
 ## Inside a thread
-2. Message
+3. Message
   - Message#new
   - Message#edit
   - Message#destroy
